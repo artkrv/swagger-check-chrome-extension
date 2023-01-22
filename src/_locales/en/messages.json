@@ -1,0 +1,6 @@
+{
+  "extName": {
+    "message": "The Swagger Check",
+    "description": "The Swagger Check Chrome extension will send a GET request to the /swagger.json endpoint of the website you are currently visiting. If the website uses Swagger, the extension will change its icon to indicate this, allowing you to quickly and easily identify sites that use the framework."
+  }
+}
